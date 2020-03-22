@@ -5,7 +5,7 @@
   description: A plugin to add ip addresses to custom database tables.
   Version: 1.0.0
   Author: Sagar Walzade
-  Author URI: https://author.example.com/
+  Author URI: https://sagarwalzade.com/
   Text Domain: swlp
  */
 
